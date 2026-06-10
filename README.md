@@ -1,1 +1,1 @@
-# getready!
+# getready
